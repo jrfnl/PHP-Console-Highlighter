@@ -108,8 +108,7 @@ class Highlighter
      * @param string $source
      * @return array
      */
-    private function tokenize($source)
-    {
+    private function tokenize( $source ) {
         $tokens = token_get_all($source);
 
         $output = array();
