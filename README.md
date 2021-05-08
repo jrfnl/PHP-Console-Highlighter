@@ -1,6 +1,10 @@
 PHP Console Highlighter
 =======================
 
+[![Build Status](https://travis-ci.org/php-parallel-lint/PHP-Console-Highlighter.svg?branch=master)](https://travis-ci.org/php-parallel-lint/PHP-Console-Color)
+[![Build Status](https://travis-ci.org/php-parallel-lint/PHP-Console-Highlighter.svg?branch=master)](https://travis-ci.org/php-parallel-lint/PHP-Console-Color)
+
+
 Highlight PHP code in console (terminal).
 
 Example
