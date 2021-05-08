@@ -192,7 +192,7 @@ class Highlighter
             return self::TOKEN_DEFAULT;
         }
         if (defined('T_NAME_RELATIVE') && $arrayToken[0] === T_NAME_RELATIVE) {
-            return self::TOKEN_DEFAULT;
+            return self::TOKEN_DEFAULT
         }
 
         return self::TOKEN_KEYWORD;
